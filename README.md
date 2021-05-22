@@ -1,4 +1,4 @@
-# **Prizma**
+# **Prisma**
 **_For-Profesional-Team-Work_**
 > Team Communications Software
 
